@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgba(231, 231, 231, 0.555);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.centered {
+    text-align: center;
+}
+
+.joke {
+    margin: 20px 0px;
+    border-width: 4px;
+    border-style: dotted;
+    font-size: 18px;
+}
+
+.wait {
+    margin: 42px 0px;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+img {
+    height: 450px;
+    border: 
+}
+
+.img-container {
+    margin-top: 10px;
+}
+
+.whole-height {
+    height: 100vh;
+}
